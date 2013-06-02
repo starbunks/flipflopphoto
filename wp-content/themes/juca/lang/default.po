@@ -1,0 +1,1610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: meydjer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-20 13:51-0300\n"
+"PO-Revision-Date: 2012-08-20 13:51-0300\n"
+"Last-Translator: Meydjer Luzzoli <meydjer@meydjer.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19 ../archive.php:141 ../index.php:76 ../page.php:55
+#: ../single.php:77
+msgid "Error 404"
+msgstr ""
+
+#: ../404.php:21 ../archive.php:143 ../index.php:78 ../page.php:57
+#: ../single.php:79
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../archive.php:17 ../archive.php:22
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../archive.php:18
+#, php-format
+msgid "All posts in \"%s\""
+msgstr ""
+
+#: ../archive.php:23
+#, php-format
+msgid "All posts tagged with \"%s\""
+msgstr ""
+
+#: ../archive.php:28 ../archive.php:33 ../archive.php:38
+msgid "Archive for "
+msgstr ""
+
+#: ../archive.php:43
+msgid "All posts by "
+msgstr ""
+
+#: ../archive.php:47
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:48
+msgid "Blog Archives"
+msgstr ""
+
+#: ../archive.php:126 ../index.php:61 ../search.php:82
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: ../archive.php:128 ../index.php:63 ../search.php:84
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: ../comments.php:20
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: ../comments.php:53
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Trackback"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Pingback"
+msgstr ""
+
+#: ../comments.php:65
+msgid "on"
+msgstr ""
+
+#: ../comments.php:94
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:142
+msgid "Leave Your Comment"
+msgstr ""
+
+#: ../comments.php:143
+#, php-format
+msgid "Reply To %s"
+msgstr ""
+
+#: ../comments.php:156
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: ../comments.php:161
+msgid "Click here to cancel your reply."
+msgstr ""
+
+#: ../comments.php:167
+#, php-format
+msgid "Logged in as %1$s - %2$s(Log out) %3$s"
+msgstr ""
+
+#: ../comments.php:167
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:174
+msgid "* Name"
+msgstr ""
+
+#: ../comments.php:179
+msgid "* Email"
+msgstr ""
+
+#: ../comments.php:184
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:191
+msgid "* Comment"
+msgstr ""
+
+#: ../comments.php:204
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:211
+msgid "&lt; Older Comments"
+msgstr ""
+
+#: ../comments.php:212
+msgid "Newer Comments &gt;"
+msgstr ""
+
+#: ../header.php:128 ../functions/theme.php:35
+msgid "You need to <a href=\""
+msgstr ""
+
+#: ../search.php:6
+msgid "- Search Results For \""
+msgstr ""
+
+#: ../search.php:97
+msgid "No results for"
+msgstr ""
+
+#: ../search.php:99
+msgid "Please try another search."
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Search here"
+msgstr ""
+
+#: ../admin/options-framework.php:170 ../admin/options-framework.php:364
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/options-framework.php:238
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../admin/options-framework.php:270
+msgid "Default options restored."
+msgstr ""
+
+#: ../admin/options-framework.php:313
+msgid "Options saved."
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:26
+msgid "Theme Options Media"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:129
+msgid "Upload"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:152
+msgid "View File"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:289
+#: ../functions/blog/blog.php:262 ../functions/blog/blog.php:277
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:289
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../admin/options-sanitize.php:238
+msgid "No Repeat"
+msgstr ""
+
+#: ../admin/options-sanitize.php:239
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../admin/options-sanitize.php:240
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../admin/options-sanitize.php:241
+msgid "Repeat All"
+msgstr ""
+
+#: ../admin/options-sanitize.php:254
+msgid "Top Left"
+msgstr ""
+
+#: ../admin/options-sanitize.php:255
+msgid "Top Center"
+msgstr ""
+
+#: ../admin/options-sanitize.php:256
+msgid "Top Right"
+msgstr ""
+
+#: ../admin/options-sanitize.php:257
+msgid "Middle Left"
+msgstr ""
+
+#: ../admin/options-sanitize.php:258
+msgid "Middle Center"
+msgstr ""
+
+#: ../admin/options-sanitize.php:259
+msgid "Middle Right"
+msgstr ""
+
+#: ../admin/options-sanitize.php:260
+msgid "Bottom Left"
+msgstr ""
+
+#: ../admin/options-sanitize.php:261
+msgid "Bottom Center"
+msgstr ""
+
+#: ../admin/options-sanitize.php:262
+msgid "Bottom Right"
+msgstr ""
+
+#: ../admin/options-sanitize.php:275
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../admin/options-sanitize.php:276
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../admin/options-sanitize.php:350
+msgid "Normal"
+msgstr ""
+
+#: ../admin/options-sanitize.php:351
+msgid "Italic"
+msgstr ""
+
+#: ../admin/options-sanitize.php:352
+msgid "Bold"
+msgstr ""
+
+#: ../admin/options-sanitize.php:353
+msgid "Bold Italic"
+msgstr ""
+
+#: ../admin/options.php:55
+msgid "Select one item:"
+msgstr ""
+
+#: ../admin/options.php:62
+msgid "You need to build your menu."
+msgstr ""
+
+#: ../admin/options.php:77
+msgid "Select a page:"
+msgstr ""
+
+#: ../admin/options.php:93
+msgid "Basic"
+msgstr ""
+
+#: ../admin/options.php:99
+msgid "Fixed Header"
+msgstr ""
+
+#: ../admin/options.php:101
+msgid "Click if you don't want the animated version."
+msgstr ""
+
+#: ../admin/options.php:107
+msgid "Favicon"
+msgstr ""
+
+#: ../admin/options.php:109
+msgid "16x16 pixels. .ico format"
+msgstr ""
+
+#: ../admin/options.php:115
+msgid "Footer Columns"
+msgstr ""
+
+#: ../admin/options.php:129
+msgid "Copy Text"
+msgstr ""
+
+#: ../admin/options.php:131
+msgid "(Optional)"
+msgstr ""
+
+#: ../admin/options.php:134
+msgid ""
+"&copy; Copyright 2012 &nbsp;&ndash;&nbsp; Juca WordPress Theme. All rights "
+"reserved."
+msgstr ""
+
+#: ../admin/options.php:144 ../admin/options.php:149
+msgid "Default Background"
+msgstr ""
+
+#: ../admin/options.php:152 ../functions/background.php:50
+msgid ""
+"<strong>Note:</strong> You will need to setup an image slider as a fallback "
+"for mobile devices (they don't allow video autoplay)."
+msgstr ""
+
+#: ../admin/options.php:155 ../admin/options.php:161
+#: ../functions/background.php:41 ../functions/blog/blog.php:190
+msgid "Video"
+msgstr ""
+
+#: ../admin/options.php:156 ../admin/options.php:182
+#: ../functions/background.php:42 ../functions/background.php:71
+#: ../functions/fx-slider/slider.php:176
+#: ../functions/portfolio/portfolio.php:143
+#: ../functions/portfolio/portfolio.php:150
+msgid "Images"
+msgstr ""
+
+#: ../admin/options.php:168 ../functions/background.php:55
+msgid "M4V video file"
+msgstr ""
+
+#: ../admin/options.php:170 ../functions/background.php:58
+msgid ""
+"<strong>Tip</strong>: You can just change your \".mp4\" video extension to "
+"\".m4v\". <br><br>You will need the \".ogv\" version too."
+msgstr ""
+
+#: ../admin/options.php:175 ../functions/background.php:63
+msgid "OGV video file"
+msgstr ""
+
+#: ../admin/options.php:177 ../functions/background.php:66
+msgid ""
+"<strong>Tip</strong>: If you need, you can convert your video to \".ogv\" at "
+"<a href=\"http://video.online-convert.com/convert-to-ogg\" target=\"_blank"
+"\">Online-Convert.com</a>. <br><br>You will need the \".m4v\" version too."
+msgstr ""
+
+#: ../admin/options.php:189 ../admin/options.php:249
+msgid "Animation Duration"
+msgstr ""
+
+#: ../admin/options.php:193
+msgid "Set the speed of animation, in milliseconds."
+msgstr ""
+
+#: ../admin/options.php:198 ../admin/options.php:258
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../admin/options.php:202 ../admin/options.php:262
+msgid "Set the speed of the slideshow cycling, in milliseconds."
+msgstr ""
+
+#: ../admin/options.php:207
+msgid "Slides Number"
+msgstr ""
+
+#: ../admin/options.php:217
+msgid "Image #"
+msgstr ""
+
+#: ../admin/options.php:231 ../functions/cstacker/cstacker-template.php:12
+msgid "Slider"
+msgstr ""
+
+#: ../admin/options.php:236
+msgid "Animation Type"
+msgstr ""
+
+#: ../admin/options.php:241
+msgid "Select your animation type, \"Fade\" or \"Slide\""
+msgstr ""
+
+#: ../admin/options.php:243
+msgid "Fade"
+msgstr ""
+
+#: ../admin/options.php:244 ../functions/fx-slider/slider.php:64
+msgid "Slide"
+msgstr ""
+
+#: ../admin/options.php:253
+msgid "Set the speed of animations, in milliseconds."
+msgstr ""
+
+#: ../admin/options.php:267
+msgid "Animation Loop"
+msgstr ""
+
+#: ../admin/options.php:270
+msgid "Should the animation loop?"
+msgstr ""
+
+#: ../admin/options.php:275
+msgid "Pause on Action"
+msgstr ""
+
+#: ../admin/options.php:278
+msgid ""
+"Pause the slideshow when interacting with control elements. Highly "
+"recommended."
+msgstr ""
+
+#: ../admin/options.php:283
+msgid "Pause on Hover"
+msgstr ""
+
+#: ../admin/options.php:286
+msgid ""
+"Pause the slideshow when hovering over slider, then resume when no longer "
+"hovering."
+msgstr ""
+
+#: ../admin/options.php:291
+msgid "Randomize"
+msgstr ""
+
+#: ../admin/options.php:294
+msgid "Randomize slide order."
+msgstr ""
+
+#: ../admin/options.php:305
+msgid "Typography"
+msgstr ""
+
+#: ../admin/options.php:310
+msgid "Fonts Number"
+msgstr ""
+
+#: ../admin/options.php:348
+msgid "Font #"
+msgstr ""
+
+#: ../admin/options.php:357
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../admin/options.php:379
+msgid "The CSS keys to apply."
+msgstr ""
+
+#: ../admin/options.php:393
+msgid "Advanced"
+msgstr ""
+
+#: ../admin/options.php:398
+msgid "Built-in SEO"
+msgstr ""
+
+#: ../admin/options.php:400
+msgid "Uncheck it if you want to use a 3th party SEO Plugin."
+msgstr ""
+
+#: ../admin/options.php:406
+msgid "Login Image"
+msgstr ""
+
+#: ../admin/options.php:408
+msgid ""
+"Customize the image of your login screen. (Maximum Size: 310x145 pixels.)"
+msgstr ""
+
+#: ../admin/options.php:413
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../admin/options.php:415
+msgid "Put your Google Analytics code here."
+msgstr ""
+
+#: ../admin/options.php:420
+msgid "Custom JavaScript Code"
+msgstr ""
+
+#: ../admin/options.php:422
+msgid "Paste your custom JS code here."
+msgstr ""
+
+#: ../admin/options.php:427
+msgid "Custom CSS Code"
+msgstr ""
+
+#: ../admin/options.php:429
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: ../functions/background.php:20
+msgid "Background"
+msgstr ""
+
+#: ../functions/background.php:35 ../functions/portfolio/portfolio.php:139
+msgid "Portfolio Item Type"
+msgstr ""
+
+#: ../functions/background.php:40
+msgid "Default"
+msgstr ""
+
+#: ../functions/comments-list.php:13
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/comments-list.php:41
+msgid "at"
+msgstr ""
+
+#: ../functions/comments-list.php:41
+msgid "Reply &rarr;"
+msgstr ""
+
+#: ../functions/comments-list.php:43
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions/seo.php:23
+msgid "SEO"
+msgstr ""
+
+#: ../functions/seo.php:38 ../functions/cstacker/cstacker-template.php:14
+#: ../functions/cstacker/content/cta.php:7
+#: ../functions/cstacker/edit/cta.php:7 ../functions/cstacker/edit/cta.php:18
+#: ../functions/cstacker/edit/tabs.php:47
+#: ../functions/cstacker/edit/toggles.php:51
+#: ../functions/cstacker/functions/tabs.php:52
+#: ../functions/cstacker/functions/toggles.php:52
+#: ../functions/fx-slider/slider.php:343
+#: ../functions/portfolio/portfolio.php:201
+msgid "Title"
+msgstr ""
+
+#: ../functions/seo.php:43
+msgid "Recommended size: 60 chars."
+msgstr ""
+
+#: ../functions/seo.php:47
+msgid "Description"
+msgstr ""
+
+#: ../functions/seo.php:51
+msgid "Recommended size: 160 chars."
+msgstr ""
+
+#: ../functions/seo.php:57
+msgid "Keywords"
+msgstr ""
+
+#: ../functions/seo.php:61
+msgid "A comma separated list of keywords."
+msgstr ""
+
+#: ../functions/seo.php:67
+msgid "Meta Robots Index"
+msgstr ""
+
+#: ../functions/seo.php:71
+msgid "Do you want meta robots to index this page?"
+msgstr ""
+
+#: ../functions/seo.php:74
+msgid "Index"
+msgstr ""
+
+#: ../functions/seo.php:75
+msgid "Don't Index"
+msgstr ""
+
+#: ../functions/seo.php:80
+msgid "Meta Robots Follow"
+msgstr ""
+
+#: ../functions/seo.php:84
+msgid "Do you want meta robots to follow links from this page?"
+msgstr ""
+
+#: ../functions/seo.php:87
+msgid "Follow"
+msgstr ""
+
+#: ../functions/seo.php:88
+msgid "Don't Follow"
+msgstr ""
+
+#: ../functions/theme-options.php:57
+msgid "Color Scheme"
+msgstr ""
+
+#: ../functions/theme-options.php:85
+msgid "Primary Palette"
+msgstr ""
+
+#: ../functions/theme-options.php:104 ../functions/theme-options.php:186
+msgid "Main Color"
+msgstr ""
+
+#: ../functions/theme-options.php:123 ../functions/theme-options.php:205
+#: ../functions/theme-options.php:288
+msgid "Text Color"
+msgstr ""
+
+#: ../functions/theme-options.php:142 ../functions/theme-options.php:224
+msgid "Details Color"
+msgstr ""
+
+#: ../functions/theme-options.php:167
+msgid "Secondary Palette"
+msgstr ""
+
+#: ../functions/theme-options.php:250
+msgid "Tertiary Palette"
+msgstr ""
+
+#: ../functions/theme-options.php:269
+msgid "Background Color"
+msgstr ""
+
+#: ../functions/theme.php:41
+msgid "Back to the Homepage"
+msgstr ""
+
+#: ../functions/theme.php:254
+msgid "File of \"Featured Image\" was not found!"
+msgstr ""
+
+#: ../functions/theme.php:453
+msgid "Google Fonts API is currently down."
+msgstr ""
+
+#: ../functions/theme.php:583
+msgid "<h1 style=\"color:red\">You need to upload your M4V video.</h1>"
+msgstr ""
+
+#: ../functions/theme.php:584
+msgid "<h1 style=\"color:red\">You need to upload your OGV video.</h1>"
+msgstr ""
+
+#: ../functions/widget-areas.php:5
+msgid "Social Icons Area"
+msgstr ""
+
+#: ../functions/widget-areas.php:14
+#: ../functions/cstacker/content/portfolio.php:29
+#: ../functions/cstacker/edit/portfolio.php:41
+msgid "All"
+msgstr ""
+
+#: ../functions/widget-areas.php:23
+#: ../functions/cstacker/cstacker-template.php:11
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions/widget-areas.php:32
+msgid "Blog"
+msgstr ""
+
+#: ../functions/widget-areas.php:41
+msgid "Pages"
+msgstr ""
+
+#: ../functions/widget-areas.php:50
+msgid "Middle Banner Area"
+msgstr ""
+
+#: ../functions/widget-areas.php:65
+msgid "Footer - #"
+msgstr ""
+
+#: ../functions/widget-social.php:18
+msgid "Theme - Social Icons"
+msgstr ""
+
+#: ../functions/blog/blog.php:39
+msgid "Status"
+msgstr ""
+
+#: ../functions/blog/blog.php:54
+msgid "Status Text"
+msgstr ""
+
+#: ../functions/blog/blog.php:57
+msgid "Write here your status."
+msgstr ""
+
+#: ../functions/blog/blog.php:74
+msgid "Chat"
+msgstr ""
+
+#: ../functions/blog/blog.php:89
+msgid "Chat Text"
+msgstr ""
+
+#: ../functions/blog/blog.php:92
+msgid "Write here your chat."
+msgstr ""
+
+#: ../functions/blog/blog.php:109
+msgid "Quote"
+msgstr ""
+
+#: ../functions/blog/blog.php:124
+msgid "Quote Text"
+msgstr ""
+
+#: ../functions/blog/blog.php:127
+msgid "Write here the quote."
+msgstr ""
+
+#: ../functions/blog/blog.php:133
+msgid "Quote Author"
+msgstr ""
+
+#: ../functions/blog/blog.php:136
+msgid "(optional)"
+msgstr ""
+
+#: ../functions/blog/blog.php:151
+#: ../functions/fx-slider/fx-slide-template.php:165
+#: ../functions/fx-slider/slider.php:184
+msgid "Link"
+msgstr ""
+
+#: ../functions/blog/blog.php:166
+msgid "Link Text"
+msgstr ""
+
+#: ../functions/blog/blog.php:168
+msgid "The link Title"
+msgstr ""
+
+#: ../functions/blog/blog.php:173
+msgid "Link URL"
+msgstr ""
+
+#: ../functions/blog/blog.php:205 ../functions/blog/blog.php:241
+#: ../functions/portfolio/portfolio.php:157
+msgid "Shortcode/Embedded Content"
+msgstr ""
+
+#: ../functions/blog/blog.php:209 ../functions/portfolio/portfolio.php:161
+msgid ""
+"Paste here the Shortcode of the HTML code of you embedded content (E.g.: "
+"YouTube and Vimeo videos)."
+msgstr ""
+
+#: ../functions/blog/blog.php:226
+msgid "Audio"
+msgstr ""
+
+#: ../functions/blog/blog.php:245
+msgid ""
+"Paste here the Shortcode of the HTML code of you embedded content (E.g.: "
+"Soundcloud music)."
+msgstr ""
+
+#: ../functions/blog/blog.php:295 ../functions/fx-slider/slider.php:142
+#: ../functions/fx-slider/slider.php:161
+msgid "Image"
+msgstr ""
+
+#: ../functions/blog/blog.php:312
+msgid "The Image Post Format uses your Featured Image."
+msgstr ""
+
+#: ../functions/blog/standard.php:22 ../functions/blog/index/aside.php:12
+#: ../functions/blog/index/audio.php:27 ../functions/blog/index/chat.php:33
+#: ../functions/blog/index/gallery.php:48 ../functions/blog/index/image.php:13
+#: ../functions/blog/index/link.php:34 ../functions/blog/index/quote.php:38
+#: ../functions/blog/index/standard.php:22
+#: ../functions/blog/index/status.php:33 ../functions/blog/index/video.php:36
+#: ../functions/blog/single/aside.php:12 ../functions/blog/single/audio.php:26
+#: ../functions/blog/single/chat.php:33
+#: ../functions/blog/single/gallery.php:44
+#: ../functions/blog/single/image.php:13 ../functions/blog/single/link.php:34
+#: ../functions/blog/single/quote.php:38
+#: ../functions/blog/single/standard.php:20
+#: ../functions/blog/single/status.php:33
+#: ../functions/blog/single/video.php:32
+msgid "In"
+msgstr ""
+
+#: ../functions/blog/standard.php:22 ../functions/blog/index/aside.php:12
+#: ../functions/blog/index/audio.php:27 ../functions/blog/index/chat.php:33
+#: ../functions/blog/index/gallery.php:48 ../functions/blog/index/image.php:13
+#: ../functions/blog/index/link.php:34 ../functions/blog/index/quote.php:38
+#: ../functions/blog/index/standard.php:22
+#: ../functions/blog/index/status.php:33 ../functions/blog/index/video.php:36
+#: ../functions/blog/single/aside.php:12 ../functions/blog/single/audio.php:26
+#: ../functions/blog/single/chat.php:33
+#: ../functions/blog/single/gallery.php:44
+#: ../functions/blog/single/image.php:13 ../functions/blog/single/link.php:34
+#: ../functions/blog/single/quote.php:38
+#: ../functions/blog/single/standard.php:20
+#: ../functions/blog/single/status.php:33
+#: ../functions/blog/single/video.php:32
+msgid "By"
+msgstr ""
+
+#: ../functions/blog/standard.php:48 ../functions/blog/index/standard.php:48
+msgid "Read More +"
+msgstr ""
+
+#: ../functions/blog/index/aside.php:38 ../functions/blog/index/audio.php:53
+#: ../functions/blog/index/chat.php:59 ../functions/blog/index/gallery.php:74
+#: ../functions/blog/index/image.php:39 ../functions/blog/index/link.php:60
+#: ../functions/blog/index/quote.php:64 ../functions/blog/index/status.php:59
+#: ../functions/blog/index/video.php:62
+msgid "Permalink +"
+msgstr ""
+
+#: ../functions/blog/single/aside.php:37 ../functions/blog/single/audio.php:51
+#: ../functions/blog/single/chat.php:56
+#: ../functions/blog/single/gallery.php:69
+#: ../functions/blog/single/image.php:38 ../functions/blog/single/link.php:59
+#: ../functions/blog/single/quote.php:63
+#: ../functions/blog/single/standard.php:46
+#: ../functions/blog/single/status.php:58
+#: ../functions/blog/single/video.php:57
+msgid "Tags"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:4
+msgid "Alert"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:5
+msgid "Blank"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:6
+msgid "Blog Entries"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:7
+msgid "Call to Action"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:8
+msgid "Column"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:9
+msgid "Divider"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:10
+msgid "Page Content"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:13
+msgid "Tabs"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:15
+msgid "Toggles"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:16
+msgid "Welcome Message"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:29
+msgid "Select item:"
+msgstr ""
+
+#: ../functions/cstacker/cstacker-template.php:36
+msgid "Add Item"
+msgstr ""
+
+#: ../functions/cstacker/cstacker.php:76
+msgid "Content Stacker"
+msgstr ""
+
+#: ../functions/cstacker/content/alert.php:8
+#: ../functions/cstacker/edit/alert.php:16
+msgid "Alert Text"
+msgstr ""
+
+#: ../functions/cstacker/content/blog.php:114
+msgid "No posts."
+msgstr ""
+
+#: ../functions/cstacker/content/column.php:6
+msgid "column Text"
+msgstr ""
+
+#: ../functions/cstacker/content/cta.php:8
+#: ../functions/cstacker/edit/cta.php:8 ../functions/cstacker/edit/cta.php:25
+msgid "Button Text"
+msgstr ""
+
+#: ../functions/cstacker/content/portfolio.php:21
+msgid "You need create some Portfolio Categories to use the filter."
+msgstr ""
+
+#: ../functions/cstacker/content/portfolio.php:128
+msgid "You need create some Portfolio Items."
+msgstr ""
+
+#: ../functions/cstacker/content/portfolio.php:161
+msgid "Please, set a Featured Image."
+msgstr ""
+
+#: ../functions/cstacker/content/tabs.php:25
+#: ../functions/cstacker/functions/tabs.php:12
+msgid "Tab Title"
+msgstr ""
+
+#: ../functions/cstacker/content/tabs.php:43
+#: ../functions/cstacker/functions/tabs.php:13
+msgid "Tab Content..."
+msgstr ""
+
+#: ../functions/cstacker/content/welcome.php:26
+msgid "Welcome Content..."
+msgstr ""
+
+#: ../functions/cstacker/edit/alert.php:4
+msgid "Red"
+msgstr ""
+
+#: ../functions/cstacker/edit/alert.php:5
+msgid "Blue"
+msgstr ""
+
+#: ../functions/cstacker/edit/alert.php:6
+msgid "Green"
+msgstr ""
+
+#: ../functions/cstacker/edit/alert.php:7
+msgid "Yellow"
+msgstr ""
+
+#: ../functions/cstacker/edit/alert.php:8
+msgid "Black"
+msgstr ""
+
+#: ../functions/cstacker/edit/alert.php:26
+msgid "Color"
+msgstr ""
+
+#: ../functions/cstacker/edit/alert.php:45
+msgid "Text Size"
+msgstr ""
+
+#: ../functions/cstacker/edit/alert.php:53
+#: ../functions/cstacker/edit/column.php:13
+msgid "Text"
+msgstr ""
+
+#: ../functions/cstacker/edit/alert.php:59
+#: ../functions/cstacker/edit/blank.php:9
+#: ../functions/cstacker/edit/blog.php:32
+#: ../functions/cstacker/edit/column.php:19
+#: ../functions/cstacker/edit/cta.php:40
+#: ../functions/cstacker/edit/divider.php:19
+#: ../functions/cstacker/edit/page-content.php:13
+#: ../functions/cstacker/edit/portfolio.php:116
+#: ../functions/cstacker/edit/slider.php:49
+#: ../functions/cstacker/edit/tabs.php:81
+#: ../functions/cstacker/edit/title.php:89
+#: ../functions/cstacker/edit/toggles.php:103
+#: ../functions/cstacker/edit/welcome.php:77
+#: ../functions/fx-slider/fx-slide-template.php:152
+msgid "Done"
+msgstr ""
+
+#: ../functions/cstacker/edit/blank.php:5
+msgid "This is a blank column with no options."
+msgstr ""
+
+#: ../functions/cstacker/edit/blog.php:12
+msgid "Show latest"
+msgstr ""
+
+#: ../functions/cstacker/edit/column.php:4
+msgid "Column Text"
+msgstr ""
+
+#: ../functions/cstacker/edit/cta.php:32
+msgid "Button Link"
+msgstr ""
+
+#: ../functions/cstacker/edit/divider.php:13
+msgid "Back-to-top Text (optional)"
+msgstr ""
+
+#: ../functions/cstacker/edit/page-content.php:7
+msgid "This is just your page content."
+msgstr ""
+
+#: ../functions/cstacker/edit/portfolio.php:32
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../functions/cstacker/edit/portfolio.php:34
+msgid "Show Filter"
+msgstr ""
+
+#: ../functions/cstacker/edit/portfolio.php:38
+msgid "Show Items"
+msgstr ""
+
+#: ../functions/cstacker/edit/portfolio.php:45
+msgid "Select"
+msgstr ""
+
+#: ../functions/cstacker/edit/portfolio.php:58
+msgid "Select items"
+msgstr ""
+
+#: ../functions/cstacker/edit/portfolio.php:104
+msgid "Please create some portfolio items."
+msgstr ""
+
+#: ../functions/cstacker/edit/slider.php:38
+msgid "Please create some slider categories."
+msgstr ""
+
+#: ../functions/cstacker/edit/tabs.php:36
+#: ../functions/cstacker/edit/toggles.php:40
+#: ../functions/cstacker/edit/welcome.php:35
+#: ../functions/cstacker/functions/tabs.php:41
+#: ../functions/cstacker/functions/toggles.php:41
+#: ../functions/cstacker/functions/welcome.php:39
+msgid "Edit"
+msgstr ""
+
+#: ../functions/cstacker/edit/tabs.php:36
+#: ../functions/cstacker/edit/toggles.php:40
+#: ../functions/cstacker/edit/welcome.php:35
+#: ../functions/cstacker/functions/tabs.php:41
+#: ../functions/cstacker/functions/toggles.php:41
+#: ../functions/cstacker/functions/welcome.php:39
+msgid "Add"
+msgstr ""
+
+#: ../functions/cstacker/edit/tabs.php:39
+#: ../functions/cstacker/functions/tabs.php:44
+msgid "Tab"
+msgstr ""
+
+#: ../functions/cstacker/edit/tabs.php:55
+#: ../functions/cstacker/edit/toggles.php:59
+#: ../functions/cstacker/edit/welcome.php:51
+#: ../functions/cstacker/functions/tabs.php:60
+#: ../functions/cstacker/functions/toggles.php:60
+#: ../functions/cstacker/functions/welcome.php:55
+msgid "Save"
+msgstr ""
+
+#: ../functions/cstacker/edit/tabs.php:56
+#: ../functions/cstacker/edit/toggles.php:60
+#: ../functions/cstacker/edit/welcome.php:52
+#: ../functions/cstacker/functions/tabs.php:61
+#: ../functions/cstacker/functions/toggles.php:61
+#: ../functions/cstacker/functions/welcome.php:56
+msgid "Delete"
+msgstr ""
+
+#: ../functions/cstacker/edit/tabs.php:57
+#: ../functions/cstacker/edit/toggles.php:61
+#: ../functions/cstacker/edit/welcome.php:53
+#: ../functions/cstacker/functions/tabs.php:62
+#: ../functions/cstacker/functions/toggles.php:62
+#: ../functions/cstacker/functions/welcome.php:57
+msgid "Close"
+msgstr ""
+
+#: ../functions/cstacker/edit/tabs.php:80
+msgid "Add Tab"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:4
+msgid "H1"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:5
+msgid "H2"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:6
+msgid "H3"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:7
+msgid "H4"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:8
+msgid "H5"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:9
+msgid "H6"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:13
+msgid "Left"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:14
+msgid "Center"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:15
+msgid "Right"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:35
+msgid "Custom Title"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:36
+msgid "leave it blank to show the page title"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:42
+#: ../functions/fx-slider/fx-slide-template.php:170
+msgid "Class"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:49
+msgid "Size"
+msgstr ""
+
+#: ../functions/cstacker/edit/title.php:70
+msgid "Alignment"
+msgstr ""
+
+#: ../functions/cstacker/edit/toggles.php:43
+#: ../functions/cstacker/functions/toggles.php:44
+msgid "Toggle"
+msgstr ""
+
+#: ../functions/cstacker/edit/toggles.php:87
+msgid "Toggle First"
+msgstr ""
+
+#: ../functions/cstacker/edit/toggles.php:94
+msgid "Only One Toggle Is Allowed"
+msgstr ""
+
+#: ../functions/cstacker/edit/toggles.php:102
+msgid "Add Toggle"
+msgstr ""
+
+#: ../functions/cstacker/edit/welcome.php:38
+#: ../functions/cstacker/functions/welcome.php:42
+#: ../functions/fx-slider/slider.php:347
+msgid "Content"
+msgstr ""
+
+#: ../functions/cstacker/edit/welcome.php:76
+msgid "Add Welcome Message"
+msgstr ""
+
+#: ../functions/cstacker/functions/toggles.php:12
+msgid "Toggle Title"
+msgstr ""
+
+#: ../functions/cstacker/functions/toggles.php:13
+msgid "Toggle Content..."
+msgstr ""
+
+#: ../functions/cstacker/functions/welcome.php:12
+msgid "Welcome Message..."
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:53
+#: ../functions/fx-slider/fx-slide.php:193
+msgid "None"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:54
+#: ../functions/fx-slider/fx-slide.php:194
+msgid "Back"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:55
+#: ../functions/fx-slider/fx-slide.php:195
+msgid "Bounce"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:56
+#: ../functions/fx-slider/fx-slide.php:196
+msgid "Circ"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:57
+#: ../functions/fx-slider/fx-slide.php:197
+msgid "Cubic"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:58
+#: ../functions/fx-slider/fx-slide.php:199
+msgid "Expo"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:59
+#: ../functions/fx-slider/fx-slide.php:198
+msgid "Elastic"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:60
+#: ../functions/fx-slider/fx-slide.php:200
+msgid "Quad"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:61
+#: ../functions/fx-slider/fx-slide.php:201
+msgid "Quart"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:62
+#: ../functions/fx-slider/fx-slide.php:202
+msgid "Quint"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:63
+#: ../functions/fx-slider/fx-slide.php:203
+msgid "Sine"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:141
+msgid "Height"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:150
+msgid "Add Element"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:151
+msgid "Preview"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:166
+msgid "Animation"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:167
+msgid "Easing"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:168
+msgid "Delay"
+msgstr ""
+
+#: ../functions/fx-slider/fx-slide-template.php:169
+msgid "Duration"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:16 ../functions/fx-slider/slider.php:29
+msgid "Slider Categories"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:17 ../functions/fx-slider/slider.php:345
+msgid "Slider Category"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:18
+msgid "Popular Slider Categories"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:19
+msgid "All Slider Categories"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:20
+msgid "Parent Slider Category"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:21
+msgid "Parent Slider Category:"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:22
+msgid "Edit Slider Category"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:23
+msgid "Update Slider Category"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:24
+msgid "Add New Slider Category"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:25
+msgid "New Slider Category Name"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:26
+msgid "Separate Slider Categories with commas"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:27
+msgid "Add or remove Slider Categories"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:28
+msgid "Choose from the most used Slider Categories"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:63 ../functions/fx-slider/slider.php:73
+msgid "Slides"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:65
+#: ../functions/portfolio/portfolio.php:65
+msgid "Add New"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:66
+msgid "Add New Slide"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:67
+msgid "Edit Slide"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:68
+msgid "New Slide"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:69
+msgid "View Slide"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:70
+msgid "No Slides found"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:71
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:72
+msgid "Parent Slide:"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:123
+msgid "Slide Content"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:138
+msgid "Slide Type"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:143 ../functions/fx-slider/slider.php:216
+#: ../functions/fx-slider/slider.php:231
+#: ../functions/portfolio/portfolio.php:144
+msgid "Embedded Content"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:144
+msgid "HTML"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:145 ../functions/fx-slider/slider.php:285
+#: ../functions/fx-slider/slider.php:300
+msgid "FX Slide"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:179
+msgid "Maximum width: 1160px."
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:187
+msgid "Link for this image (optional)"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:191
+msgid "Caption Title"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:194
+msgid "Image caption title (optional)"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:198
+msgid "Caption Text"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:201
+msgid "Image caption text (optional)"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:235
+msgid ""
+"Paste here the HTML code of you embedded content (E.g.: YouTube and Vimeo "
+"videos)."
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:251 ../functions/fx-slider/slider.php:266
+msgid "HTML Content"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:270
+msgid "Write your HTML content <strong>here</strong>."
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:375
+#: ../functions/portfolio/portfolio.php:233
+msgid "Uncategorized"
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:402
+#: ../functions/fx-slider/slider_order.php:94
+msgid "Please upload an image."
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:422
+#: ../functions/fx-slider/slider_order.php:109
+msgid "Please paste your embedded content code."
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:441
+#: ../functions/fx-slider/slider_order.php:123
+msgid "Please write your HTML content."
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:479
+#: ../functions/fx-slider/slider_order.php:155
+msgid "Please edit your FX Slide."
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:490
+#: ../functions/fx-slider/slider_order.php:161
+msgid "Please insert your content."
+msgstr ""
+
+#: ../functions/fx-slider/slider.php:519
+msgid "Slides Order"
+msgstr ""
+
+#: ../functions/fx-slider/slider_order.php:241
+msgid "You don't have any slider item yet. <a href=\""
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:16
+#: ../functions/portfolio/portfolio.php:29
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:17
+#: ../functions/portfolio/portfolio.php:203
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:18
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:19
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:20
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:21
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:22
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:23
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:24
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:25
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:26
+msgid "Separate Portfolio Categories with commas"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:27
+msgid "Add or remove Portfolio Categories"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:28
+msgid "Choose from the most used Portfolio Categories"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:63
+#: ../functions/portfolio/portfolio.php:73
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:64
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:66
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:67
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:68
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:69
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:70
+msgid "No portfolio items found"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:71
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:72
+msgid "Parent Portfolio Item:"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:124
+msgid "Portfolio Item Content"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:205
+msgid "Featured Image"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:253
+#: ../functions/portfolio/portfolio_order.php:91
+msgid "Please set a featured image"
+msgstr ""
+
+#: ../functions/portfolio/portfolio.php:281
+msgid "Portfolio Order"
+msgstr ""
+
+#: ../functions/portfolio/portfolio_order.php:172
+msgid "You don't have any portfolio item yet. <a href=\""
+msgstr ""
+
+#: ../includes/meta-box/inc/classes/meta-box.php:264
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../includes/meta-box/inc/classes/meta-box.php:334
+msgid "+"
+msgstr ""
+
+#: ../includes/meta-box/inc/classes/meta-box.php:358
+msgid "&#8211;"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/file.php:64
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/fx-slide.php:25
+msgid "Launch FX Slide Editor"
+msgstr ""
+
+#: ../includes/meta-box/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""

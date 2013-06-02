@@ -1,0 +1,339 @@
+
+
+.ml-cs-items {
+	display: inline-block;
+	width:100%;
+}
+
+.ml-cs-items li {
+	float:left;
+	margin-bottom:20px;
+	margin-right:3%;
+	transition: width 0.2s ease-in-out !important;
+		-webkit-transition: width 0.2s ease-in-out !important;
+		-moz-transition: width 0.2s ease-in-out !important;
+		-ms-transition: width 0.2s ease-in-out !important;
+		-o-transition: width 0.2s ease-in-out !important;
+}
+
+.ml-cs-items .ml-cs-size-1 {
+	width:97%;
+}
+
+.ml-cs-items .ml-cs-size-2 {
+	width:72%;
+}
+
+.ml-cs-items .ml-cs-size-3 {
+	width:63.6666666666667%;
+}
+
+.ml-cs-items .ml-cs-size-4 {
+	width:47%;
+}
+
+.ml-cs-items .ml-cs-size-5 {
+	width:30.3333333333333%;
+}
+
+.ml-cs-items .ml-cs-size-6 {
+	width:22%;
+}
+
+.ml-cs-items .ml-cs-size-full {
+	width:97% !important;
+}
+
+.ml-cs-items .ui-sortable-placeholder {
+	background:#ccc;
+	box-shadow: rgba(0,0,0,.4) 0 1px 8px inset;
+		-webkit-box-shadow: rgba(0,0,0,.4) 0 1px 8px inset;
+		-moz-box-shadow: rgba(0,0,0,.4) 0 1px 8px inset;
+	visibility: visible !important;
+	border-radius: 4px;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		-ms-border-radius: 4px;
+		-o-border-radius: 4px;
+}
+
+.ml-cs-items li,
+.ml-cs-items .ml-cs-size-full {
+	transition: width 0.75s ease-in-out;
+		-webkit-transition: width 0.75s ease-in-out;
+		-moz-transition: width 0.75s ease-in-out;
+		-ms-transition: width 0.75s ease-in-out;
+		-o-transition: width 0.75s ease-in-out;
+}
+
+.ml-cs-options {
+	background: #dcdcdc url(../images/ml-cstacker-bar-bg.png) repeat-x left top;
+	border: 1px solid #b4b4b4;
+	border-bottom-color: #aaa;
+	border-top-color: #bfbfbf;
+	border-top-left-radius: 4px;
+		-webkit-border-radius-top-left: 4px;
+		-moz-border-radius-topleft: 4px;
+	border-top-right-radius: 4px;
+		-webkit-border-radius-top-right: 4px;
+		-moz-border-radius-topright: 4px;
+	height:38px;
+	position: relative;
+	width:100%;
+}
+
+.ml-cs-items li .ml-cs-options {
+	cursor: move;
+}
+
+.ml-cs-button {
+	background-color:#bebebe;
+	display: block;
+	float:left;
+	height:27px;
+	margin: 6px 0 0 6px;
+	width:26px;
+}
+
+.ml-cs-sprite {
+	background-image: url(../images/ml-cstacker-controls.png);
+}
+
+.ml-hide-txt {
+	overflow: hidden;
+	text-indent: 100%;
+	white-space: nowrap;
+}
+
+.ml-cs-delete {
+	background-position:0 0;
+	color:#590f05;
+	font-size:16px;
+	left:0;
+}
+
+.ml-cs-delete:hover {
+	background-position: 0 -27px;
+}
+
+.ml-cs-delete:active {
+	background-position: 0 -54px;
+}
+
+.ml-cs-edit {
+	background-position: -26px 0;
+}
+
+.ml-cs-edit:hover {
+	background-position: -26px -27px;
+}
+
+.ml-cs-edit:active {
+	background-position: -26px -54px;
+}
+
+.ml-cs-minus {
+	background-position: -52px 0;
+}
+
+.ml-cs-minus:hover {
+	background-position: -52px -27px;
+}
+
+.ml-cs-minus:active {
+	background-position: -52px -54px;
+}
+
+.ml-cs-plus {
+	background-position: -78px 0;
+	margin-left:0;
+}
+
+.ml-cs-plus:hover {
+	background-position: -78px -27px;
+}
+
+.ml-cs-plus:active {
+	background-position: -78px -54px;
+}
+
+.ml-cs-size {
+	background-position: right top;
+	color:#686868;
+	display: block;
+	float:left;
+	font-family:"Helvetica Neue", Helvetica, Arial, Clean, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	height:21px;
+	letter-spacing:1px;
+	line-height:20px;
+	margin-top:9px;
+	text-align:center;
+	text-shadow: 0 1px 1px #dedede;
+	width:31px;
+}
+
+.ml-cs-area {
+	background: white url(../images/ml-cstacker-bar-shadow.gif) repeat-x left top;
+	border:1px solid #d1d1d1;
+	border-top:0 none;
+	border-bottom-left-radius: 4px;
+		-webkit-border-radius-bottom-left: 4px;
+		-moz-border-radius-bottomleft: 4px;
+	border-bottom-right-radius: 4px;
+		-webkit-border-radius-bottom-right: 4px;
+		-moz-border-radius-bottomright: 4px;
+	box-shadow: rgba(0,0,0,.07) 0 1px 2px;
+		-webkit-box-shadow: rgba(0,0,0,.07) 0 1px 2px;
+		-moz-box-shadow: rgba(0,0,0,.07) 0 1px 2px;
+	width:100%;
+}
+
+.ml-cs-area-in {
+	padding: 10px;
+}
+
+.ml-cs-title {
+	margin: 0 !important;
+}
+
+.ml-cs-edit-content {
+	max-height:0;
+	overflow: hidden;
+}
+
+.ml-cs-edit-content.ml-cs-max-height {
+	max-height:2000px;
+}
+
+.ml-cs-edit-content,
+.ml-cs-edit-content.ml-cs-max-height {
+	transition: max-height 0.75s ease-in-out;
+		-webkit-transition: max-height 0.75s ease-in-out;
+		-moz-transition: max-height 0.75s ease-in-out;
+		-ms-transition: max-height 0.75s ease-in-out;
+		-o-transition: max-height 0.75s ease-in-out;
+}
+
+.ml-cs-li label {
+	float:left;
+	margin-top:6px;
+}
+
+.ml-pseudowidget-save {
+	margin-right:6px;
+}
+
+.ml-pseudowidget-save:hover {
+	text-decoration:none !important;
+}
+
+.ml-admin-single-label {
+	display: inline-block;
+	padding-right:20px;
+	*zoom:1;
+}
+
+.ml-admin-detail {
+	color:#999;
+}
+
+
+/*--- Alert ---*/
+
+.ml-cs-alert-box label {
+	display: inline-block;
+	width:70px;
+	*zoom:1;
+}
+
+
+/*--- Call to Action ---*/
+
+.ml-cs-cta-box label {
+	display: inline-block;
+	width:80px;
+	*zoom:1;
+}
+
+
+/*--- Column ---*/
+
+.ml-cs-column-box label {
+	display: inline-block;
+	width:40px;
+	*zoom:1;
+}
+
+
+/*--- Portfolio ---*/
+.ml-cs-port-block {
+	float:left;
+	margin-right:3%;
+	width:30.3333333333333%;
+}
+
+.ml-cs-port-block label {
+	clear: left;
+	float:left;
+}
+
+.ml-cs-portfolio-box label {
+	display: inline-block;
+	height: 20px;
+	width:90px;
+	*zoom:1;
+}
+
+.ml-cs-port-items-list label,
+.ml-cs-portfolio-box .ml-cs-in-label {
+	width: auto;
+}
+
+.ml-cs-port-show-filter {
+	margin-top: 7px
+}
+
+
+
+/*--- Tabs / Toggles ---*/
+
+.ml-wmessages-list li,
+.ml-tabs-list li,
+.ml-toggles-list li {
+	margin-bottom:0;
+	width:100%;
+}
+
+.ml-tabs-list .widget-title-action,
+.ml-toggles-list .widget-title-action {
+	float:left;
+}
+
+.ml-wmessages-list .widget-top,
+.ml-tabs-list .widget-top,
+.ml-toggles-list .widget-top {
+	cursor: default;
+}
+
+/*--- Title ---*/
+
+.ml-cs-title-box label {
+	display: inline-block;
+	width:90px;
+	*zoom:1;
+}
+
+.ml-cs-title-box .ml-admin-detail {
+	margin-left:90px;
+}
+
+.ml-cs-title-text-border {
+	margin-top:8px;
+}
+
+.ml-cs-title-box .ml-cs-title-alignment-option {
+	padding-right:15px;
+	width:auto;
+}

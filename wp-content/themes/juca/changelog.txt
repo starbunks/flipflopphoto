@@ -1,0 +1,27 @@
+------------------
+  Juca Changelog
+------------------
+
+=== November 20, 2012 - v1.2.1 ===
+* Fixed Google Font bug.
+
+=== September 20, 2012 - v1.2 ===
+* Added support for shortcodes inside Content Stacker
+* Added Content Stacker items into search results
+
+=== August 31, 2012 - v1.1.1 ===
+* Fixed back button bug
+* Fixed more IE9/8 bugs.
+
+=== August 29, 2012 - v1.1 ===
+* Added AJAX images pre-load
+* Fixed IE9 loading Portfolio Item images bug.
+
+=== August 27, 2012 - v1.0.2 ===
+* Fixed Portfolio Item loop bug.
+
+=== August 24, 2012 - v1.0.1 ===
+* Fixed copyright save bug.
+
+=== August 21, 2012 - v1.0 ===
+* First Release.
